@@ -1,5 +1,0 @@
-test:
-    stage: test
-    image: gradle
-    script:
-        - gradle test
